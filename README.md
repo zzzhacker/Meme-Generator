@@ -1,11 +1,30 @@
-# Getting Started with Create React App
+# Create React Meme Generator App
+In This project a meme generator app is built using react to Learn various concepts of React.
 
-This project create a meme generator using react
+## Objectives
 
-### `npm start`
+- [x] States
+  - [x] States vs props
+  - [x] Best pratices to use states and 
+  - [x] UseState Hook
+  - [x] Leveling up States to parent component
+  - [x] State changes through components and their childern
+- [x] Conditional Rendering and different use cases
+- [x] Form
+  - [x] State and controlled inputs
+  - [x] Various iput type like text,checkbox,select list etc.
+  - [x] Submit button functioning
+- [x] UseEffect
+  - [x] useEffect behviour
+  - [x] Proper use of dependecies array
+  - [x] Memory leaks and cleanup function
+  - [x] async funtions in useEffect
+  - [x] EventListeners and useEffect
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Demo
+![demo](demo.gif "Demo")
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+### Run App
+- $ npm start
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
